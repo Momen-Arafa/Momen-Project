@@ -49,4 +49,6 @@ Add your own domain name and have it point to the running services (try adding a
 
 http://image-filter-starter-code-dev222222222.us-east-1.elasticbeanstalk.com/
 
+https://image-filter-starter-code-dev222222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg
+
 https://github.com/Momen-Arafa/Momen-Project
